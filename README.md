@@ -1,39 +1,39 @@
-# _Aging in Space_
+# _Project Name_
 
 #### By _Liam Campbell_
 
 
 
-#### _A javascript app to keep track your age on different planets_
+#### _Description_
 
 
 
 ## Technologies Used
 
-* _Jquery_
-* _JavaScript_
-* _Jest_
-* _esLinter_
-* _webpack_
-* _babel_
+* _C #_
+* __
+* __
+* __
+* __
+* __
 
 ## Description
 
-_An application in which a user can enter their age in earth years and get their age on different planets, they can also keep track of how many years until they surpass the average life expectancy._
+_   _
 
 ## Setup/Installation Requirements
 
-* _Clone the git repository github.com/lcmpbll/Aging-in-Space to your desktop_
+* _Clone the git repository github.com/lcmpbll/ to your desktop_
 * _Open file in vs code_
-* _Run commands npm install and npm run build_
-* _Naviage to the src/js/years.js file_
+* _Run command dotnet restore from the ProjectName.Test folder_
+* _Run command dotent run in the top level of the project._
 
 
 
 
 ## Known Bugs
 
-* Does not have a user interface.
+* Any known bugs
 
 ## License
 
